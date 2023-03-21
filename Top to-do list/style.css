@@ -1,0 +1,75 @@
+body {
+    background-image: linear-gradient(to right, #69bc10, #e0e017);
+    color: white;
+}
+.tera {
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 16px;
+    margin-bottom: 0;
+    font-size: 2rem;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.bossknopka {
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.bossknopka p {
+    font-size: 1.4rem;
+}
+
+.bossknopka p:focus {
+    border-bottom: 2px solid blue;
+}
+
+.giga {
+    width: 350px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 16px;
+    margin-bottom: 0;
+    font-size: 1.4rem;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 450px;
+    border: 1px solid black;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.mega {
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 16px;
+    margin-bottom: 0;
+    font-size: 1.2rem;
+    padding: 10px;
+    box-sizing: border-box;
+}
